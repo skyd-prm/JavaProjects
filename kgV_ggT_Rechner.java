@@ -36,7 +36,7 @@ public class kgV_ggT_Rechner {
                 zahl1 = zahl2;
                 zahl2 = rest;
             }
-            return zahl1;
+            return zahl1; //ggT wird zurückgebracht
         }
 
     static int kgvBerechnen (int zahl1, int zahl2, int ggT) { //methode zur berechnung des kgVs mit simpler rechnung
